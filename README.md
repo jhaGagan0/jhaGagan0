@@ -12,7 +12,6 @@
 
 - 🌱 I’m currently learning **Data Analysis,AI/ML, Python and its libraries**
 
-- 💬 Ask me about **Frontend Development, DBMS**
 
 - 📫 How to reach me **gkjha1495@gmail.com**
 
