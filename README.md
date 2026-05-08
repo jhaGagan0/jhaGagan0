@@ -17,8 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jZoVb_jvsuY2UQgii2agQ0TiSEYTWRl6/view?usp=sharing](https://drive.google.com/file/d/1jZoVb_jvsuY2UQgii2agQ0TiSEYTWRl6/view?usp=sharing)
 
-- ⚡ Fun fact **I write better code than I write “About Me” sections. 😄🧠💻**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gaganjha140905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaganjha140905" height="30" width="40" /></a>
