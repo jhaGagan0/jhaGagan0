@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & AI Engineering**
 
-- 👨‍💻 All of my projects are available at [https://jhagagan0.github.io/](https://jhagagan0.github.io/)
-
 - 📝 I regularly write articles on [https://medium.com/@gkjha1495](https://medium.com/@gkjha1495)
 
 - 💬 Ask me about **Data Science, AI & Machine Learning**
