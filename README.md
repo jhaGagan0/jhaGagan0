@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@gkjha1495](https://medium.com/@gkjha1495)
 
-- 💬 Ask me about **Data Science, AI & Machine Learning**
+- 💬 Ask me about **AI & Machine Learning**
 
 - 📫 How to reach me **gkjha1495@gmail.com**
 
