@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & AI Engineering**
 
-- 📝 I regularly write articles on [https://medium.com/@gkjha1495](https://medium.com/@gkjha1495)
-
 - 💬 Ask me about **DATA**
 
 - 📫 How to reach me **gkjha1495@gmail.com**
