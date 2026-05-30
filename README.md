@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & AI Engineering**
 
-- 💬 Ask me about **DATA**
-
 - 📫 How to reach me **gkjha1495@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
