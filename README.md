@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gkjha1495@gmail.com**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaganjha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaganjha18" height="30" width="40" /></a>
 <a href="https://medium.com/@gkjha1495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gkjha1495" height="30" width="40" /></a>
