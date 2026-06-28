@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Gagan Jha</h1>
-<h3 align="center">ASPIRING Data Scientist Professional</h3>
+<h3 align="center"> Data Scientist Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhagagan0&label=Profile%20views&color=0e75b6&style=flat" alt="jhagagan0" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning & AI Engineering**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning & AI Engineering**
 
 - 📫 How to reach me **gkjha1495@gmail.com**
 
